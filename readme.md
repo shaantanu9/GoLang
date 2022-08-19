@@ -33,7 +33,7 @@ No for online Coding not recommended
 
 - [ ]  Create Directory Create main.go
 - [ ]  Open terminal
-
+image.png
 ```jsx
 go mod init hello
 ```
