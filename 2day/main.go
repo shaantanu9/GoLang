@@ -3,5 +3,9 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("day2")
+	var data bool = true
+	fmt.Println(data, "data")
+	if data {
+		fmt.Println("day2")
+	}
 }
